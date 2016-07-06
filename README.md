@@ -3,7 +3,7 @@ Content of Programmable Digital Systems at UPV - Spring 2013
 
 Set of laboratory projects written in Verilog an implemented in an Altera DE2 Board (which includes an Altera 90nm Cyclone II FPGA). The design software used was Altera Quartus II.
 
-Each of the 5 laboratories practices includes a lab report explaining what and how has been achieved in it.
+Each of the 5 laboratories practices includes a lab report (in Spanish) explaining what and how has been achieved in it.
 
 Content:
 - **labs_handout.pdf**: guide providing initial introduction to the Altera DE2 board, as well as stating what has to be achieved in each of the 5 laboratories practices
