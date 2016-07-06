@@ -15,4 +15,4 @@ Content:
  
 ### Distribution of components in the used board:
 
-![Altera DE2 Board](/altera_de2.png "Altera DE2 Board)
+![Altera DE2 Board](/altera_de2.png "Altera DE2 Board")
