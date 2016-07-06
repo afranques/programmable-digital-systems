@@ -14,4 +14,5 @@ Content:
 - **lab5**: design of a driver for a touchscreen
  
 ### Distribution of components in the used board:
+
 ![Altera DE2 Board](/altera_de2.png "Altera DE2 Board)
